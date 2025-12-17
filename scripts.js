@@ -42,7 +42,7 @@ let cell1 = "";
 let cell2 = "";
 let cell3 = "";
 let cell4 = "";
-// Ceels track of commas / cells
+// Keepss track of commas / cells
 let commas = 0;
 
 // Looped over entire string.
